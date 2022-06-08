@@ -1,2 +1,26 @@
 # Ethereum-Tools-Language
-Solidity-   Introduction to Smart Contracts — Solidity 0.8.15 documentation      Start Writing your Smart contract and try to use the following  IDE: Copy-paste the smart contract and compile it  Remix  EthFiddle  TestNodes: Deploy your Smart code on the Test network.  Ganache/TestRPC  Pythereum  CLI Dev Tools  Truffle   Embark  Dapp/Dapple  Code Analyser  Solium  Open-Zepplin  Browser: Create an account using Metamask  Mist  Metamask - MetaMask Tutorial for Beginners - How to Set Up MetaMask 
+- Solidity-  
+- Start Writing your Smart contract and try to use the following
+
+**IDE : Copy-paste the smart contract and compile it** -
+
+- Remix  
+- EthFiddle  
+
+**TestNodes : Deploy your Smart code on the Test network.** -
+- Ganache/TestRPC 
+- Pythereum 
+
+**CLI Dev Tools** -
+- Truffle
+- Embark  
+- Dapp/Dapple 
+
+**Code Analyser** -   
+- Solium
+- Open-Zepplin 
+
+**Browser : Create an account using Metamask** -   
+- Mist 
+- Metamask 
+- XDCPay 
